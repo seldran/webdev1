@@ -1,0 +1,39 @@
+body
+{
+    background-color: gainsboro;
+}
+div
+{
+    margin: 2px;
+}
+.green
+{
+    border: 1px solid green;
+    margin: 0.4% 0.1%;
+}
+.red
+{
+    border: 1px solid red;
+    margin:0.25% 0.1%;
+}
+.s2_1
+{
+    display: inline-block;
+    width:70%;
+}
+.s2_2
+{
+    display:inline-block;
+    width:28%;
+}
+.s3_1
+{
+    display:inline-block;
+    width: 99%;
+}
+.s3_2
+{
+    display:inline-block;
+    width: 49.1%;
+    margin-left: 50%;
+}
